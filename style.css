@@ -1,0 +1,40 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #02293A;
+}
+
+img {
+    margin: 5px;
+}
+
+button {
+    display: block;
+    height: 40px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 15px;
+    font-family: 'Montserrat', sans-serif;
+    border: 0px solid;
+    font-size: 15px;
+    background-color: aliceblue;
+    color: #E5CDA9;
+}
+
+.container1 a {
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: #09435b;
+}
+
+p {
+    padding-top: 30px;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 8px;
+}
