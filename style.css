@@ -19,9 +19,9 @@ button {
     border-radius: 15px;
     font-family: 'Montserrat', sans-serif;
     border: 0px solid;
-    font-size: 15px;
+    font-size: 12px;
     background-color: aliceblue;
-    color: #E5CDA9;
+    color: #ddac63;
 }
 
 .container1 a {
@@ -30,11 +30,12 @@ button {
 
 button:hover {
     background-color: #09435b;
+    color: aliceblue;
 }
 
 p {
     padding-top: 30px;
-    color: aliceblue;
+    color: #E5CDA9;
     font-family: 'Montserrat', sans-serif;
     font-size: 8px;
 }
