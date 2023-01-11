@@ -20,8 +20,8 @@ button {
     font-family: 'Montserrat', sans-serif;
     border: 0px solid;
     font-size: 12px;
-    background-color: aliceblue;
-    color: #ddac63;
+    background-color: #09435b;
+    color: #E5CDA9;
 }
 
 .container1 a {
@@ -29,8 +29,8 @@ button {
 }
 
 button:hover {
-    background-color: #09435b;
-    color: aliceblue;
+    background-color: aliceblue;
+    color: #09435b;
 }
 
 p {
