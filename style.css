@@ -4,10 +4,8 @@
 }
 
 body {
-    background-color: #02293A;
+    background-color: rgb(2, 41, 58);
 }
-
-img {}
 
 button {
     display: block;
@@ -15,11 +13,12 @@ button {
     width: 300px;
     margin: 10px;
     border-radius: 15px;
+    border: 1px solid;
+    background-color: rgb(9, 67, 91);
+    border: 0pc solid;
+    color: #ccb792;
     font-family: 'Montserrat', sans-serif;
-    border: 0px solid;
     font-size: 12px;
-    background-color: #09435b;
-    color: #E5CDA9;
 }
 
 .container1 a {
@@ -27,13 +26,13 @@ button {
 }
 
 button:hover {
-    background-color: aliceblue;
-    color: #09435b;
+    background-color: white;
+    color: rgb(9, 67, 91);
 }
 
 p {
     padding-top: 30px;
-    color: #E5CDA9;
     font-family: 'Montserrat', sans-serif;
-    font-size: 8px;
+    font-size: 7px;
+    color: #ccb792;
 }
